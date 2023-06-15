@@ -52,3 +52,5 @@ Cypress.Commands.add('login', (username, password) => {
     loginPage.enterPassword(password);
     loginPage.clickLogin();
   });
+
+  //new comment
